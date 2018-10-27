@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>assignment</title>
+</head>
+<body>
+<h1>MY TIME TABLE</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
